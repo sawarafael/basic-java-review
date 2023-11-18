@@ -1,0 +1,24 @@
+# compiled class files
+*.class
+
+# log file
+*.log
+
+# bluej office
+*.ctxt
+
+# mobile tools
+.mtj.tmp/
+
+# package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine logic crashs
+hs_err_pld*
+tipos-variaveis/.vscode/settings.json
