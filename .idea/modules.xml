@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO-Constructor/POO-Constructor.iml" filepath="$PROJECT_DIR$/POO-Constructor/POO-Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO-GET-SETTER/POO-GET-SETTER.iml" filepath="$PROJECT_DIR$/POO-GET-SETTER/POO-GET-SETTER.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/basic-java-review.iml" filepath="$PROJECT_DIR$/.idea/basic-java-review.iml" />
       <module fileurl="file://$PROJECT_DIR$/metodos/metodos.iml" filepath="$PROJECT_DIR$/metodos/metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/operadores/operadores.iml" filepath="$PROJECT_DIR$/operadores/operadores.iml" />
